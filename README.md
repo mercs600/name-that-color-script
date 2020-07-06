@@ -8,7 +8,7 @@ yarn add name-that-color-script --dev
 ## Usage
 Just add to npm scripts
 ```bash
-node ./node_modules/name-that-color-script '#321312'
+npx name-that-color-script "#321312"
 ```
 
 ## @LandonSchropp's approach of naming color variables.
